@@ -11,6 +11,7 @@ int main ()
 {
 	cout << "bme lab 5";
  cout << "there";
+ cout << "here";
 	return 0;
 }
 
