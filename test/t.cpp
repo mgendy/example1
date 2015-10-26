@@ -9,7 +9,7 @@
 using namespace std;
 int main ()
 {
-	cout << "bme lab5";
+	cout << "bme lab 5";
 	return 0;
 }
 
